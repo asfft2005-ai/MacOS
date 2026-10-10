@@ -1,0 +1,5 @@
+# Build output of `node build.js` (~48 MB single file).
+# Regenerate locally with: node build.js
+svgtiger-standalone.html
+
+node_modules/
